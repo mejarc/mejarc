@@ -10,7 +10,7 @@ I believe that all roles in software development contribute to a project's succe
 - 🌱 I’m currently learning React.
 
 - 😄 Pronouns: she/her
-- 📫 How to reach me: email, always. I generally avoid Slack, IRC, etc.
+- 📫 How to reach me: email. I generally avoid synchronous means (phone, Slack, IRC).
 <!--
 **mejarc/mejarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
