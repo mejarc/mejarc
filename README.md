@@ -6,4 +6,4 @@ By the numbers:
 * 20+ years of experience in web programming.
 * Founding developer at 4 startups.
   
-- 📫 How to reach me: [email](mailto:job@twobanjos.com). I generally avoid synchronous means (phone, Slack, IRC).
+- 📫 How to reach me: [email](mailto:job@twobanjos.com). I generally avoid synchronous means (phone, Slack, Discord).
