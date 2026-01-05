@@ -1,5 +1,4 @@
-
-Web technologist. Developer on a diverse range of projects, from consumer web applications, to design systems, to e-commerce. Committed to superior team experience, with thorough READMEs, constructive comments, nonviolent bug reporting, and empathy for contributors.
+1997- 2022: Developer on a diverse range of projects, from consumer web applications, to design systems, to e-commerce. Committed to superior team experience, with thorough READMEs, constructive comments, nonviolent bug reporting, and empathy for contributors.
 
 By the numbers:
 * Completed ~70 successful projects.
